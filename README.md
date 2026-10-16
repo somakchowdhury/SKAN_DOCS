@@ -1,8 +1,8 @@
-# Research Group Document Repository
+# SKAN RESEARCH TRUST DOCUMENT PORTAL
 
-Welcome to the central document repository for our research group. This page provides access to essential institutional forms, compliance documents, guidelines, and approval templates hosted on OneDrive.
+Welcome to the central document repository for SKAN RESEARCH TRUST. This page provides access to essential institutional forms, compliance documents, guidelines, and approval templates hosted on OneDrive.
 
-Please ensure you are accessing and submitting the latest version of any required forms.
+In case of questions reagarding the forms please ask respective Administrative officer.
 
 ---
 
@@ -12,17 +12,14 @@ Please ensure you are accessing and submitting the latest version of any require
 The Institutional Ethics Committee (IEC) oversees human participant research, ensuring all protocols adhere to ethical standards, safeguard subject rights and privacy, and comply with regulatory requirements. Any study involving human subjects, samples, or data must receive prior IEC clearance.
 
 ### Key Contact Persons
-* **IEC Chairperson:** Dr. Eleanor Vance (`chair.iec@institution.org`)
-* **Member Secretary:** Dr. Marcus Thorne (`secretary.iec@institution.org`)
-* **Administrative Officer:** Ms. Sarah Jenkins (`ethics.admin@institution.org` | Ext: 4012)
+* **IEC Chairperson:** Dr. Anjali Karande
+* **Member Secretary:** Dr. Lavanya.Garady (`Lavanya.Garady@skanrt.in`)
+* **Administrative Officer:** Dr. Devyani (`devyani.azad@skanrt.in`)
 
 | Sr. No. | Document Name | Version | Updated on | Link to Download | Format of the Document |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Initial Study Application Form | v3.2 | 2026-01-15 | [Download via OneDrive](https://onedrive.live.com/) | DOCX |
-| 2 | Informed Consent Form Template (English) | v2.1 | 2025-11-10 | [Download via OneDrive](https://onedrive.live.com/) | DOCX |
-| 3 | Adverse Event Reporting Protocol & Form | v1.4 | 2025-08-22 | [Download via OneDrive](https://onedrive.live.com/) | PDF |
-| 4 | Protocol Amendment Request Form | v2.0 | 2025-09-05 | [Download via OneDrive](https://onedrive.live.com/) | DOCX |
-| 5 | Annual Progress Report Checklist | v1.1 | 2026-02-01 | [Download via OneDrive](https://onedrive.live.com/) | PDF |
+| 1 | Checklist of Ethical Document | v.0 | 16-10-2026 | [Download via OneDrive]([https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:w:/g/personal/somak_chowdhury_skanrt_in/IQBh-U3WsWE5TZ6VMtt_Qid1AV7o9-0-XIihxZqIzY15wxY?e=dc8lZc)) | DOCX |
+| 2 | IEC forms combined (English) | v2.1 | 2025-11-10 | [Download via OneDrive]([https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:w:/g/personal/somak_chowdhury_skanrt_in/IQC3Rp3cE2gITp-sMAD9gLMRARQS9eP1NmJzAgQQZXIeZ0c?e=tbMVgh)) | DOCX |
 
 ---
 
