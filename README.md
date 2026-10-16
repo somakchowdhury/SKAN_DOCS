@@ -16,6 +16,8 @@ The Institutional Ethics Committee (IEC) oversees human participant research, en
 * **Member Secretary:** Dr. Lavanya.Garady (`Lavanya.Garady@skanrt.in`)
 * **Administrative Officer:** Dr. Devyani (`devyani.azad@skanrt.in`)
 
+**NOTE: Don't edit the word doc that opens. Please save on your computer and edit**
+
 | Sr. No. | Document Name | Version | Updated on | Link to Download | Format of the Document |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Checklist of Ethical Document | v.0 | 16-10-2026 | [Download via OneDrive](https://skanrt-my.sharepoint.com/:w:/g/personal/somak_chowdhury_skanrt_in/IQBh-U3WsWE5TZ6VMtt_Qid1AV7o9-0-XIihxZqIzY15wxY?e=dc8lZc) | DOCX |
