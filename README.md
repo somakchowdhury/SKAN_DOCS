@@ -29,7 +29,9 @@ The Institutional Ethics Committee (IEC) oversees human participant research, en
 The Institutional Biosafety Committee (IBSC) reviews and approves research involving recombinant DNA technology, biological agents, toxins, and potentially infectious materials. The IBSC ensures appropriate biosafety containment levels, risk assessment, and environmental handling procedures.
 
 ### Key Contact Persons
-* **Biosafety Officer (BSO):** Dr. Ritika Sharma (`Ritika.sharma@skanrt.in`)
+* **Chairman:** Dr. Yogesh Shouche
+* DBT Nominee:** Dr. Dipshikha Chakraborty
+* **Member Secretary:** Dr. Ritika Sharma (`Ritika.sharma@skanrt.in`)
 
 
 | Sr. No. | Document Name | Version | Updated on | Link to Download | Format of the Document |
@@ -48,18 +50,17 @@ The Institutional Biosafety Committee (IBSC) reviews and approves research invol
 The Governing Council acts as the primary executive and policy-making body for the research unit. It establishes strategic research directions, approves major grant proposals, oversees institutional resources, and establishes administrative and operational guidelines.
 
 ### Key Contact Persons
-* **Council Executive Director:** Dr. Robert Langdon (`director@institution.org`)
-* **Administrative Head:** Ms. Amara Patel (`governance@institution.org`)
-* **Secretariat Contact:** `gc.secretariat@institution.org` | Ext: 4001
+* **Council Executive Director:** Mr. Ashok Soota 
+* **Administrative Head / Director:** Dr. Yogesh Shouche
+* **Secretariat Contact:** Dr. Yogesha M `yogesha.m@skanrt.in` 
 
 | Sr. No. | Document Name | Version | Updated on | Link to Download | Format of the Document |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Research Integrity & Ethics Policy | v2.0 | 2025-07-01 | [Download via OneDrive](https://onedrive.live.com/) | PDF |
-| 2 | Major Equipment Acquisition Request Form | v1.3 | 2025-11-30 | [Download via OneDrive](https://onedrive.live.com/) | DOCX |
-| 3 | Institutional Authorship & Publication Guidelines | v1.0 | 2025-04-12 | [Download via OneDrive](https://onedrive.live.com/) | PDF |
-| 4 | Annual Research Budget Proposal Template | v3.1 | 2026-01-05 | [Download via OneDrive](https://onedrive.live.com/) | XLSX |
-| 5 | Strategic Research Operations Framework | v2.5 | 2025-09-28 | [Download via OneDrive](https://onedrive.live.com/) | PDF |
+| 1 | Project Information form | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:w:/g/personal/somak_chowdhury_skanrt_in/IQAqTFgchPOrTKxNKweV_mQ9ATDnyocYS8LAkZzBoo18GVs?e=6daq3l)) | PDF |
+| 2 | Annual Research Budget (Annexures) | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:x:/g/personal/somak_chowdhury_skanrt_in/IQBdddEPDmq1SbZ2rqwYIj8aAUD7Lck8RUm18cgnfvYek5Q?e=usLXCa)) | XLSX |
+
 
 ---
 
-> **Note:** If you require access permissions to restricted OneDrive folders or need help locating specific documents, please contact the group administrator at `research.admin@institution.org`.
+> **Note:** If you require access permissions to restricted OneDrive folders or need help locating specific documents, please contact  `somak.chowdhury@skanrt.in`. 
+> **Issues and versioning:** IF you find outdated versions or have anyother queries please start an issue in the issue tracker to initiate a discussion. 
