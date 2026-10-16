@@ -36,10 +36,10 @@ The Institutional Biosafety Committee (IBSC) reviews and approves research invol
 
 | Sr. No. | Document Name | Version | Updated on | Link to Download | Format of the Document |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | rDNA Research guidelines| v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQCCOIwqFr50R6ZJy5G0LPACAbu5RRPbW52jOZCQGppike8?e=826cNi)) | PDF |
-| 2 |FORM B1 | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQC22-50AF4hTJy9XQiy2C9rATws1srl4xPFE09de8fiWkA?e=bJK99U)) | PDF |
-| 3 | FORM B5 | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQBXhXlWI-u7R61ApQcOdlCJAexHUplIS46kTFcH7xtx3-U?e=QL6vqy)) | PDF |
-| 4 | FORM C1 | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQB_XzDD98fFRovGFmBJHw6GAfdpjz7_fFRQkv4En3rnrvM?e=Bgf25c)) | PDF |
+| 1 | rDNA Research guidelines| v0 | 16-10-2026 | [Download via OneDrive](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQCCOIwqFr50R6ZJy5G0LPACAbu5RRPbW52jOZCQGppike8?e=YWctok) | PDF |
+| 2 |FORM B1 | v0 | 16-10-2026 | [Download via OneDrive](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQC22-50AF4hTJy9XQiy2C9rATws1srl4xPFE09de8fiWkA?e=e61PVj) | PDF |
+| 3 | FORM B5 | v0 | 16-10-2026 | [Download via OneDrive](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQBXhXlWI-u7R61ApQcOdlCJAexHUplIS46kTFcH7xtx3-U?e=QkLCRy) | PDF |
+| 4 | FORM C1 | v0 | 16-10-2026 | [Download via OneDrive](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQB_XzDD98fFRovGFmBJHw6GAfdpjz7_fFRQkv4En3rnrvM?e=XbY97L) | PDF |
 
 
 ---
