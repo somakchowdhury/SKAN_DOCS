@@ -32,7 +32,7 @@ The Institutional Biosafety Committee (IBSC) reviews and approves research invol
 
 ### Key Contact Persons
 * **Chairman:** Dr. Yogesh Shouche
-* DBT Nominee:** Dr. Dipshikha Chakraborty
+* **DBT Nominee:** Dr. Dipshikha Chakraborty
 * **Member Secretary:** Dr. Ritika Sharma (`Ritika.sharma@skanrt.in`)
 
 
