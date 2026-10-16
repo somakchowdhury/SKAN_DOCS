@@ -29,17 +29,16 @@ The Institutional Ethics Committee (IEC) oversees human participant research, en
 The Institutional Biosafety Committee (IBSC) reviews and approves research involving recombinant DNA technology, biological agents, toxins, and potentially infectious materials. The IBSC ensures appropriate biosafety containment levels, risk assessment, and environmental handling procedures.
 
 ### Key Contact Persons
-* **IBSC Chairperson:** Prof. Alan Grant (`grant.a@institution.org`)
-* **Biosafety Officer (BSO):** Dr. Claire Dearing (`bso@institution.org`)
-* **Lab Safety Coordinator:** Mr. Owen Grady (`biosafety.help@institution.org` | Ext: 4108)
+* **Biosafety Officer (BSO):** Dr. Ritika Sharma (`Ritika.sharma@skanrt.in`)
+
 
 | Sr. No. | Document Name | Version | Updated on | Link to Download | Format of the Document |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | rDNA Research Approval Form | v4.0 | 2026-02-10 | [Download via OneDrive](https://onedrive.live.com/) | DOCX |
-| 2 | Biological Material Import/Export Clearance | v2.2 | 2025-10-18 | [Download via OneDrive](https://onedrive.live.com/) | PDF |
-| 3 | Lab Safety Inspection & Audit Checklist | v3.0 | 2025-12-01 | [Download via OneDrive](https://onedrive.live.com/) | PDF |
-| 4 | Biohazardous Waste Disposal Manual | v1.5 | 2025-06-14 | [Download via OneDrive](https://onedrive.live.com/) | PDF |
-| 5 | Material Transfer Agreement (MTA) Form | v2.0 | 2026-01-20 | [Download via OneDrive](https://onedrive.live.com/) | DOCX |
+| 1 | rDNA Research guidelines| v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQCCOIwqFr50R6ZJy5G0LPACAbu5RRPbW52jOZCQGppike8?e=826cNi)) | PDF |
+| 2 |FORM B1 | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQC22-50AF4hTJy9XQiy2C9rATws1srl4xPFE09de8fiWkA?e=bJK99U)) | PDF |
+| 3 | FORM B5 | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQBXhXlWI-u7R61ApQcOdlCJAexHUplIS46kTFcH7xtx3-U?e=QL6vqy)) | PDF |
+| 4 | FORM C1 | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:b:/g/personal/somak_chowdhury_skanrt_in/IQB_XzDD98fFRovGFmBJHw6GAfdpjz7_fFRQkv4En3rnrvM?e=Bgf25c)) | PDF |
+
 
 ---
 
