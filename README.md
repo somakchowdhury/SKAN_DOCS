@@ -56,8 +56,8 @@ The Governing Council acts as the primary executive and policy-making body for t
 
 | Sr. No. | Document Name | Version | Updated on | Link to Download | Format of the Document |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | Project Information form | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:w:/g/personal/somak_chowdhury_skanrt_in/IQAqTFgchPOrTKxNKweV_mQ9ATDnyocYS8LAkZzBoo18GVs?e=6daq3l)) | PDF |
-| 2 | Annual Research Budget (Annexures) | v0 | 16-10-2026 | [Download via OneDrive](https://onedrive.live.com/](https://skanrt-my.sharepoint.com/:x:/g/personal/somak_chowdhury_skanrt_in/IQBdddEPDmq1SbZ2rqwYIj8aAUD7Lck8RUm18cgnfvYek5Q?e=usLXCa)) | XLSX |
+| 1 | Project Information form | v0 | 16-10-2026 | [Download via OneDrive](https://skanrt-my.sharepoint.com/:w:/g/personal/somak_chowdhury_skanrt_in/IQAqTFgchPOrTKxNKweV_mQ9ATDnyocYS8LAkZzBoo18GVs?e=Rpj2df) | PDF |
+| 2 | Annual Research Budget (Annexures) | v0 | 16-10-2026 | [Download via OneDrive](https://skanrt-my.sharepoint.com/:x:/g/personal/somak_chowdhury_skanrt_in/IQBdddEPDmq1SbZ2rqwYIj8aAUD7Lck8RUm18cgnfvYek5Q?e=7sHINI) | XLSX |
 
 
 ---
